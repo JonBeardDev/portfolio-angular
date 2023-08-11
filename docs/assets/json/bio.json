@@ -1,0 +1,15 @@
+{
+  "firstName": "Jonathan",
+  "lastName": "Beard",
+  "intro": [
+    "I am a software developer originally from England, now living in the Dallas, TX area.",
+    "As a former educator and instructional designer, I love to create websites, apps, and games that are as informative as they are aesthetically pleasing.",
+    "You can have a look at some of my work here."
+  ],
+  "about": [
+    "Hello! I'm Jon, a Full-Stack developer from England and based in Texas.",
+    "After graduating from the University of Birmingham with a Bachelor's degree in Computer Science and moving to the US, initially I found a calling to the world of education. I spent many years as a 5th grade teacher of Math and Science, but the COVID-19 pandemic made me re-evaluate my career path.",
+    "I chose to complete a coding bootcamp at Thinkful to help engineer a return to development, and as recent graduate, I am now honing my skills and knowledge. My experience at Thinkful has taught me to approach projects with a user-centered mindset, consistently striving to create effeicient and intuitive user experiences.",
+    "I am eager to bring my passion for creating meaningful products and delivering exceptional results to your company! Whether working in a team or individually, I love to solve problems, improve my craft, and make a positive impact."
+  ]
+}
