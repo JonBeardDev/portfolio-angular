@@ -1,0 +1,46 @@
+.min-vh-95 {
+  height: 95vh;
+}
+
+h1 {
+  color: white;
+  font-size: 4rem;
+}
+
+h4 {
+  color: rgb(203, 243, 243);
+}
+
+.email-link {
+  color: var(--primary-text-color);
+  background-color: transparent;
+  padding: 1rem 1.75rem;
+  font-size: var(--f-md);
+  border-radius: 4px;
+  font-family: var(--text-font-family);
+  line-height: 1;
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid white;
+  background: transparent;
+  padding: 0.7rem;
+  color: white;
+}
+
+.email-link:hover {
+  color: rgb(203, 243, 243);
+  cursor: pointer;
+}
+
+i {
+  color: white;
+  font-size: 40px;
+}
+
+i:hover {
+  color: rgb(203, 243, 243);
+}
+
+.btn-email {
+  margin-top: 50px;
+}

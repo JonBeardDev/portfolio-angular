@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Countdown Game",
+        "stack": {
+            "name": "React",
+            "iconClasses": "fa-brands fa-react"
+        },
+        "description": "Single player game based on the British TV show 'Countdown'.",
+        "sourceUrl": "https://github.com/JonBeardDev/countdown-game",
+        "previewUrl": "https://countdown-cd36.onrender.com/",
+        "featured": true
+    },
+    {
+        "name": "Periodic Tables",
+        "stack": {
+            "name": "React",
+            "iconClasses": "fa-brands fa-react"
+        },
+        "description": "Restaurant reservation system for tracking reservations and table seatings. Backend created with Express.",
+        "sourceUrl": "https://github.com/JonBeardDev/restaurant-reservation",
+        "previewUrl": "https://restaurant-reservation-app-gamma.vercel.app/",
+        "featured": true
+    },
+    { 
+        "name": "We Love Movies",
+        "stack": {
+            "name": "Express",
+            "iconClasses": "fa-solid fa-truck-fast"
+        },
+        "description": "Created back-end for React website showcasing movies using Express.",
+        "sourceUrl": "https://github.com/JonBeardDev/WeLoveMovies",
+        "previewUrl": "https://welovemovies-t7m2.onrender.com/",
+        "featured": true
+    },
+    {
+        "name": "TM Matching Game",
+        "stack": {
+            "name": "Node",
+            "iconClasses": "fa-brands fa-node-js"
+        },
+        "description": "Matching game - match Taskmaster UK constestants to their series.",
+        "sourceUrl": "https://github.com/JonBeardDev/TMGame",
+        "previewUrl": "https://jonbearddev.github.io/TMGame/",
+        "featured": true
+    }, 
+    {
+        "name": "Flashcard App",
+        "stack": {
+            "name": "React",
+            "iconClasses": "fa-brands fa-react"
+        },
+        "description": "CRUD decks of flashcards and use them to study. (Note: Backend only in memory)",
+        "sourceUrl": "https://github.com/JonBeardDev/flashcard-app",
+        "previewUrl": "https://jonbearddev.github.io/flashcard-app/",
+        "featured": false
+    },
+    {
+        "name": "Local Library",
+        "stack": {
+            "name": "HTML",
+            "iconClasses": "fa-brands fa-html5"
+        },
+        "description": "Library tracking system",
+        "sourceUrl": "https://github.com/JonBeardDev/Local-Library",
+        "previewUrl": "https://jonbearddev.github.io/Local-Library/",
+        "featured": false
+    }
+]
